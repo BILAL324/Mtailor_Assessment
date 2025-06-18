@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+model.onnx
+pytorch_model_weights.pth
