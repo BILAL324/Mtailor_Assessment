@@ -1,0 +1,11 @@
+torch
+onnx
+onnxruntime
+numpy
+Pillow
+torchvision
+fastapi
+uvicorn
+requests 
+pytest
+python-multipart
