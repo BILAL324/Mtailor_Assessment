@@ -1,7 +1,7 @@
 import torch
 from pytorch_model import Classifier, BasicBlock
 
-# Path to the PyTorch weights file (update if needed)
+# Path to the PyTorch weights file 
 WEIGHTS_PATH = "./pytorch_model_weights.pth"
 ONNX_PATH = "model.onnx"
 

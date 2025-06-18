@@ -2,7 +2,7 @@ name: Cerebrium Deployment
 on:
   push:
     branches:
-      - main
+      - prod
   workflow_dispatch:
 
 jobs:

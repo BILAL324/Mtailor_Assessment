@@ -71,4 +71,3 @@ This project demonstrates how to deploy an image classification model (ResNet18-
 - The API expects a POST request to `/predict` with an image file.
 - The response is a JSON object containing the predicted class index.
 - For troubleshooting, check deployment logs and verify all dependencies are included.
-
